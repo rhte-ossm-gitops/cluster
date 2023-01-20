@@ -9,7 +9,7 @@ spec:
   project: default
   source:
     path: envs/qa
-    repoURL: https://github.com/RHC-STP-OSSM/gitops-app-bookinfo.git
-    targetRevision: HEAD
+    repoURL: https://github.com/davgordo/gitops-app-bookinfo.git
+    targetRevision: canary
   syncPolicy:
     automated: {}
