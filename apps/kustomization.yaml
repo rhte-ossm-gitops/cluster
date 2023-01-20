@@ -3,6 +3,7 @@ kind: Kustomization
 
 resources:
   - application-argo-rollouts.yaml
+  - application-service-mesh-test.yaml
   - application-service-mesh-qa.yaml
   - application-bookinfo-test.yaml
   - application-bookinfo-qa.yaml
