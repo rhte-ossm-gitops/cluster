@@ -8,7 +8,7 @@ spec:
     server: https://kubernetes.default.svc
   project: default
   source:
-    path: servicemesh/overlays/default
+    path: servicemesh/overlays/qa
     repoURL: https://github.com/rhte-ossm-gitops/cluster
     targetRevision: HEAD
   syncPolicy:
