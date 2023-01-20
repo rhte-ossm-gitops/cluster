@@ -9,7 +9,7 @@ spec:
     namespace: istio-system
   project: default
   source:
-    path: servicemesh/overlays/instance/qa
+    path: servicemesh/operators
     repoURL: https://github.com/rhte-ossm-gitops/cluster
     targetRevision: HEAD
   syncPolicy:

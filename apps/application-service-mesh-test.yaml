@@ -9,7 +9,7 @@ spec:
     namespace: istio-system-test
   project: default
   source:
-    path: servicemesh/overlays/test
+    path: servicemesh/overlays/instance/test
     repoURL: https://github.com/rhte-ossm-gitops/cluster
     targetRevision: HEAD
   syncPolicy:
