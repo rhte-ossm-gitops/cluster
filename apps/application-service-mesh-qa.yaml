@@ -6,6 +6,7 @@ metadata:
 spec:
   destination:
     server: https://kubernetes.default.svc
+    namespace: istio-system
   project: default
   source:
     path: servicemesh/overlays/qa
