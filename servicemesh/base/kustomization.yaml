@@ -6,4 +6,4 @@ resources:
   - https://github.com/davgordo/GitOps-OSSM/openshift-distributed-tracing-operator/overlays/stable?ref=add-rollouts
   - https://github.com/davgordo/GitOps-OSSM/kiali-operator/overlays/stable?ref=add-rollouts
   - https://github.com/davgordo/GitOps-OSSM/openshift-servicemesh/operator/overlays/stable?ref=add-rollouts
-  - https://github.com/davgordo/GitOps-OSSM/openshift-servicemesh/instance/overlays/default?ref=add-rollouts
+#  - https://github.com/davgordo/GitOps-OSSM/openshift-servicemesh/instance/overlays/default?ref=add-rollouts
